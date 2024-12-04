@@ -1,0 +1,16 @@
+Resultados de las pruebas de Búsqueda Binaria:
+
+Prueba con vectores de enteros:
+Vector: 1 3 5 7 9 11 
+Buscando: 7
+Resultado: Entero encontrado en la posición 3
+
+Prueba con vectores de floats:
+Vector: 1.1 2.2 3.3 4.4 5.5 
+Buscando: 3.3
+Resultado: Flotante encontrado en la posición 2
+
+Prueba con vectores de cadenas:
+Vector: apple banana cherry date fig 
+Buscando: cherry
+Resultado: Cadena encontrada en la posición 2
